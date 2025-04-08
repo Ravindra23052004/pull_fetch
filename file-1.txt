@@ -1,2 +1,3 @@
 hello i am creating file-1.txt
 and i entering data into it
+here i am updating the data
